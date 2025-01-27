@@ -1,0 +1,2 @@
+# Python Type Error in Average Calculation
+This repository demonstrates a common Python error involving type errors in calculations, specifically when dealing with lists containing mixed data types.  The `bug.py` file shows the erroneous code, which will fail with a `TypeError` if the input list contains non-numeric values. The `bugSolution.py` provides a robust solution that handles this situation gracefully.
